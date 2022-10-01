@@ -146,6 +146,25 @@ li {
     margin-bottom: 20px;
 }
 
+
+/* أعمال الصف الأول المتوسط */
+
+#first-deg1 {
+    height: 325px;
+    margin-bottom: 30px;
+
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+#second-deg1 {
+    height: 550px;
+    margin-bottom: 30px;
+
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
 /* أعمال الصف الثاني المتوسط */
 
 #first-deg2 {
@@ -208,8 +227,8 @@ li {
 }
 
 #sixth-deg3 {
-    height: 600px;
-    width: 650px;
+    width: 500px;
+    height: 700px;
 
     margin-bottom: 30px;
     border-radius: 5px;
@@ -218,6 +237,16 @@ li {
 #seventh-deg3 {
     height: 450px;
     width: 650px;
+
+    margin-bottom: 30px;
+}
+
+#eighth-deg3 {
+    height: 700px;
+    margin-bottom: 30px;
+
+    border-radius: 5px;
+    border: 3px solid black;
 }
 
 /* التوافق مع الهواتف */
@@ -227,7 +256,6 @@ li {
     header {
         background-color: #ffce49;
         border: 0px solid black;
-
 
         position: relative;
         left: 50%;
@@ -311,6 +339,16 @@ li {
         list-style: none;
     }
 
+    /* أعمال الصف الأول المتوسط */
+
+    #first-deg1 {
+        height: 250px;
+        margin-bottom: 30px;
+    
+        border: 3px solid black;
+        border-radius: 5px;
+    }
+
 
 
     /* أعمال الصف الثالث المتوسط */
@@ -340,8 +378,8 @@ li {
     }
 
     #sixth-deg3 {
-        height: 350px;
-        width: 350px;
+        height: 600px;
+        width: 425px;
     
         margin-bottom: 30px;
         border-radius: 5px;
@@ -350,6 +388,15 @@ li {
     #seventh-deg3 {
         height: 350px;
         width: 450px;
+    }
+
+    #eighth-deg3 {
+    height: 600px;
+    margin-bottom: 30px;
+
+    border-radius: 5px;
+    border: 3px solid black;
+
     }
 
 
@@ -437,6 +484,28 @@ li {
     li {
         font-size: 20px;
         list-style: none;
+    }
+
+
+    /* أعمال الصف الأول المتوسط */
+
+    #second-deg1 {
+        height: 700px;
+        margin-bottom: 30px;
+    
+        border: 3px solid black;
+        border-radius: 5px;
+    }
+
+    /* أعمال الصف الثالث المتوسط */
+
+    #third-deg3 {
+        height: 750px;
+    }
+
+    #seventh-deg3 {
+        height: 350px;
+        width: 460px;
     }
 
 
